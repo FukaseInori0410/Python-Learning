@@ -1,3 +1,3 @@
 # Python-Learning
 
-The folder PythonLearning is all from 《byte of python》
+The folder PythonLearning are all from 《byte of python》
